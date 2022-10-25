@@ -15,8 +15,8 @@ app.get('/courses', (req, res) =>{
 
 app.get('/courses/:id', (req, res) =>{
     const id = req.params.id
-    const courseId = data.find(courseId => courseId.id = id ) 
-    res.send(courseId)
+    const courseID = data.find(courseId => courseId.id == id ) 
+    res.send(courseID)
 })
 
 app.listen(port, ()=>{

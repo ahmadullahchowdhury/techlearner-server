@@ -4,37 +4,41 @@
       "id": "1",
       "name": "Linux Basic",
       "total_video": 10,
-      "img": "https://www.kablewala.com.bd/images/detailed/104/3...jpg",
+      "img": "https://i.ibb.co/c1fBf6s/linux-basic.png",
       "course_details": "lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis a cras semper auctor neque vitae tempus quam pellentesque nec nam aliquam sem et tortor consequat id porta nibh venenatis cras sed felis eget velit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer enim neque"
     },
+
     {
       "id": "2",
       "name": "Basic TroubleShooting",
       "total_video": 14,
-      "img": "https://www.kablewala.com.bd/images/detailed/33/JG-1614B.jpg",
+      "img": "https://i.ibb.co/g9m3T5d/basic-pc-troubleshooting.jpg",
       "course_details": "lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis a cras semper auctor neque vitae tempus quam pellentesque nec nam aliquam sem et tortor consequat id porta nibh venenatis cras sed felis eget velit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer enim neque"
     },
+
     {
       "id": "3",
       "name": "Touch Typing",
       "total_video":18,
-      "img": "https://www.kablewala.com.bd/images/detailed/33/JG-1604.jpg"
+      "img": "https://i.ibb.co/ws7FTmd/touch-typing.jpg"
       ,
       "course_details": "lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis a cras semper auctor neque vitae tempus quam pellentesque nec nam aliquam sem et tortor consequat id porta nibh venenatis cras sed felis eget velit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer enim neque"
     },
+
     {
       "id": "4",
       "name": "Safe Internet browsing",
       "total_video": 8,
-      "img": "https://www.kablewala.com.bd/images/detailed/33/JG-1616.jpg",
+      "img": "https://i.ibb.co/MMP8xQg/Safe-Internet-Browsing.jpg",
     
       "course_details": "lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis a cras semper auctor neque vitae tempus quam pellentesque nec nam aliquam sem et tortor consequat id porta nibh venenatis cras sed felis eget velit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer enim neque"
     },
+
     {
       "id": "5",
       "name": "Office Essentials",
       "total_video": 20,
-      "img": "https://www.kablewala.com.bd/images/detailed/33/JG-1605.jpg",
+      "img": "https://i.ibb.co/6rP4HMP/office-essentials.jpg",
       "course_details": "lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis a cras semper auctor neque vitae tempus quam pellentesque nec nam aliquam sem et tortor consequat id porta nibh venenatis cras sed felis eget velit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer enim neque"
   
     },
@@ -43,7 +47,7 @@
       "id": "6",
       "name": "Basic Photo Editing",
       "total_video": 25,
-      "img": "https://www.kablewala.com.bd/images/detailed/33/JG-1613.jpg",
+      "img": "https://i.ibb.co/prNXrcZ/basic-photo-editing.jpg",
       "course_details": "lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis a cras semper auctor neque vitae tempus quam pellentesque nec nam aliquam sem et tortor consequat id porta nibh venenatis cras sed felis eget velit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer enim neque"
     }
   
