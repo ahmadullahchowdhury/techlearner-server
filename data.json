@@ -5,7 +5,7 @@
       "name": "Linux Basic",
       "total_video": 10,
       "img": "https://i.ibb.co/c1fBf6s/linux-basic.png",
-      "course_details": "lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis a cras semper auctor neque vitae tempus quam pellentesque nec nam aliquam sem et tortor consequat id porta nibh venenatis cras sed felis eget velit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer enim neque"
+      "course_details": "This course explores the various tools and techniques commonly used by Linux system administrators and end users to achieve their day-to-day work in a Linux environment. You will gain a good working knowledge of Linux and learn how to navigate through major Linux distributions, system configurations and graphical interface of Linux, basic command line operations, common applications of Linux, and more"
     },
 
     {
@@ -13,7 +13,7 @@
       "name": "Basic TroubleShooting",
       "total_video": 14,
       "img": "https://i.ibb.co/g9m3T5d/basic-pc-troubleshooting.jpg",
-      "course_details": "lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis a cras semper auctor neque vitae tempus quam pellentesque nec nam aliquam sem et tortor consequat id porta nibh venenatis cras sed felis eget velit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer enim neque"
+      "course_details": "Computer Components - Before you can understand how to repair and troubleshoot a computer you must first understand the different parts and what each part does Additional lesson topics: Computer Components; Personal Computer Hardware. This lesson will cover computer power repair issues: Power Turns off Without Warning, Windows Restarts without Warning, and Keywords. Additional lesson topics: AntiVirus Link"
     },
 
     {
@@ -22,7 +22,7 @@
       "total_video":18,
       "img": "https://i.ibb.co/ws7FTmd/touch-typing.jpg"
       ,
-      "course_details": "lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis a cras semper auctor neque vitae tempus quam pellentesque nec nam aliquam sem et tortor consequat id porta nibh venenatis cras sed felis eget velit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer enim neque"
+      "course_details": "This course trains you to type reflexively while focusing on the text in front of you. Have you ever seen someone type rapidly without looking at the keyboard at all? They weren’t born with that ability: it is a learned skill gained through practicing specific exercises. We go over such exercises and show you how to type quickly and accurately, providing a valuable skill for the Information "
     },
 
     {
@@ -31,7 +31,7 @@
       "total_video": 8,
       "img": "https://i.ibb.co/MMP8xQg/Safe-Internet-Browsing.jpg",
     
-      "course_details": "lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis a cras semper auctor neque vitae tempus quam pellentesque nec nam aliquam sem et tortor consequat id porta nibh venenatis cras sed felis eget velit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer enim neque"
+      "course_details": " Staying safe online is essential in today's world. Use these Internet safety tips to keep yourself and your loved ones protected. In this course, you will learn some tips on how to use the internet safely. The course covers email safety, making payments on the internet, child safety and how to keep your personal data safe online"
     },
 
     {
@@ -39,7 +39,7 @@
       "name": "Office Essentials",
       "total_video": 20,
       "img": "https://i.ibb.co/6rP4HMP/office-essentials.jpg",
-      "course_details": "lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis a cras semper auctor neque vitae tempus quam pellentesque nec nam aliquam sem et tortor consequat id porta nibh venenatis cras sed felis eget velit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer enim neque"
+      "course_details": "Microsoft office has several features including Access, Excel, Outlook, PowerPoint, Word, and. Moreover, you will learn to identify the various components and portions of Microsoft Office by doing this course.This is an ideal course for them who want to develop their MS office skills effectively. This course is certified by both CPD and IAO. So you don’t need to worry about the authenticity of this course."
   
     },
     
@@ -48,7 +48,7 @@
       "name": "Basic Photo Editing",
       "total_video": 25,
       "img": "https://i.ibb.co/prNXrcZ/basic-photo-editing.jpg",
-      "course_details": "lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis a cras semper auctor neque vitae tempus quam pellentesque nec nam aliquam sem et tortor consequat id porta nibh venenatis cras sed felis eget velit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer enim neque"
+      "course_details": "Our way of Photoshop editing is our ability to guide students to understand the reason why Photoshop editing is needed. Our guidance in this area is lots of Practicals/Hands-on and Reviewing on how students get the work done. In this course you will how to edit photos and many other things. So don’t forget buy this course at this limited price."
     }
   
   ]
